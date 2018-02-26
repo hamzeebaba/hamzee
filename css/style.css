@@ -1,0 +1,374 @@
+body {
+	background-color: #333; 
+	color: #fff;
+}
+.h {
+  text-align: center;
+  color: black;
+  font-family: cursive;
+  font-size: 30px;
+}
+.navbar {
+	border-bottom:#008ed5 2px solid;
+	opacity: 0.8;
+	font-family: cursive;
+	font-size: 20px;
+	margin: 5px;
+	padding-right: 15px;
+}
+#firstsentence {
+	padding-top: 400px;
+	font-family: monospace;
+	font-size: 20px;
+	text-align: center;
+}
+.btn-padding {
+	margin-left: 30px;
+	margin-top: 15px;
+}
+#our-services {
+	background-color: lightblue;
+	margin-top: 200px;
+	padding-top: 50px;
+}
+.webdes{
+	color: black;
+	font-size: 25px;
+	color: brown;
+	font-family: cursive;
+	padding-top: 50px;
+	padding-left: 50px;
+}
+.landingbody {
+	color: black;
+	font-size: 15px;
+	font-family: monospace;
+	font-style: bold;
+	padding-top: 10px;
+	padding-left: 50px;
+}
+.webdev {
+	color: black;
+	font-size: 25px;
+	color: brown;
+	font-family: cursive;
+	padding-top: 50px;
+	padding-left: 50px;
+	text-align: center;
+}
+.devbody {
+	color: black;
+	font-size: 15px;
+	font-family: monospace;
+	font-style: bold;
+	padding-top: 10px;
+	padding-left: 50px;
+}
+.logodesign  {
+	color: black;
+	font-size: 25px;
+	color: brown;
+	font-family: cursive;
+	padding-top: 50px;
+	padding-left: 50px;
+}
+.logodesignbody {
+	color: black;
+	font-size: 15px;
+	font-family: monospace;
+	padding-top: 10px;
+	padding-left: 50px;
+}
+.wordpress {
+	color: brown;
+	font-family: cursive;
+	font-size: 25px;
+	padding-left: 50px;
+	padding-top: 10px;
+}
+.wordpresssecurity {
+	color: black;
+	font-size: 15px;
+	font-family: monospace;
+	padding-left: 50px;
+}
+.shopify {
+	color: brown;
+	font-size: 25px;
+	font-family: cursive;
+	padding-left: 50px;
+	padding-top: 10px;
+}
+.shopdev {
+	color: black;
+	font-size: 15px;
+	font-family: monospace;
+	padding-top: 10px;
+	padding-left: 50px;
+}
+#tt {
+	font-family: cursive;
+	font-size: 30px;
+	text-align: center;
+	color: brown;
+	padding-top: 10px;
+}
+.first {
+  font-family: monospace;
+  padding-bottom: -50px;
+  font-size: 20px;
+  color: lightblue;
+}
+.avatar {
+  margin-left: -250px;
+  padding-top: 40px;
+  width: 40px;
+  
+}
+.peter {
+	font-family: monospace;
+	font-size: 20px;
+	margin-top: -30px;
+    padding-left: 150px;
+    color: brown;
+}
+.second {
+  text-align: center;
+  color: lightblue;
+  font-family: monospace;
+  font-size: 20px;
+  padding-top: 25px;
+}
+.dan {
+  position: absolute;
+  color: brown;
+  font-size: 20px;
+  font-family: monospace;
+  padding-left: 350px;
+  margin-top: 10px;
+}
+.anotheravatar {
+  width: 35px;
+  padding-bottom: 70px;
+  margin-right: 470px;
+ 
+}
+.third {
+  text-align: center;
+  font-family: monospace;
+  font-size: 25px;
+  color: lightblue;
+  padding-top: 50px;
+  padding-bottom: 40px;
+  
+}
+.boy1 {
+margin-top: 20px;
+width: 50px;
+margin-left: -500px;
+
+}
+.kolapo {
+  font-size: 20px;
+  color: brown;
+  position: absolute;
+  padding-top: 40px;
+  padding-left: 350px;
+  font-family: monospace;
+
+}
+@media (max-width: 960px) {
+	.peter {
+		margin-left: -75px;
+		font-size: 23px;
+		margin-bottom: 60px;
+	}
+	.avatar {
+		margin-left: -300px;
+	}
+    .dan {
+    	margin-left: -260px;
+    }
+    .anotheravatar {
+    	margin-left: 50px;
+    }
+    .boy1 {
+       margin-right: -130px;
+    }
+    .kolapo {
+    	margin-left: -300px;
+    }
+}
+@media (min-width: 767px) and (max-width: 990px){
+	.dan {
+		margin-left: -180px;
+	}
+	.kolapo {
+		margin-left: -160px;
+	}
+}
+@media (min-width: 991px) and (max-width: 1085px) {
+    
+	.dan {
+		margin-left: -70px;
+	}
+	.kolapo {
+		margin-left: -80px;
+	}
+}
+#hire-us {
+	background-color: white;
+
+}
+#h {
+	color: brown;
+	font-family: cursive;
+	font-size: 30px;
+	padding-top: 50px;
+	text-align: center;
+}
+@media (min-width: 1200px) {
+	.peter {
+        margin-bottom: 50px;
+     }
+}
+#testimonials {
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+#talk-to-us2 {
+	color: black;
+	font-family: cursive;
+	font-size: 20px;
+	padding-top: 15px;
+	margin-top: 25px;
+	text-align: center;
+}
+.btn2 {
+	margin-bottom: 100px;
+}
+.quicklinks {
+  color: brown;
+  font-family: cursive;
+  font-size: 25px;
+  padding-left: 20px;
+}
+.webingenious{
+  color: brown;
+  font-family: cursive;
+  font-size: 25px;
+  padding-left: 20px;
+
+}
+#section {
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+.contact {
+  color: brown;
+  font-family: cursive;
+  font-size: 25px;
+  padding-left: 20px;
+}
+.mystylelist {
+	padding-left: 20px;
+	font-family: monospace;
+	font-size: 20px;
+	padding-left: 20px;
+	padding-top: 15px;
+}
+.n {
+	color: white;
+}
+.ingenious {
+	font-family: monospace;
+	font-size: 17.5px;
+	padding-top: 15px;
+   padding-left: 20px;
+}
+.gmail {
+	padding-top: 15px;
+	font-size: 20px;
+	padding-left: 70px;
+	text-align: center;
+}
+.numb {
+	padding-left: 120px;
+	text-align: center;
+}
+.lag {
+	font-family: cursive;
+	padding-left: 140px;
+	padding-top: 80px;
+	color: black;
+}
+.lagoss {
+	padding-left: 150px;
+	color: brown;
+}
+#copywrite {
+	background-color: white;
+    
+}
+.mystylecopy {
+	color: brown;
+	padding-top: 15px;
+	font-family: cursive;
+}
+.gmaill {
+	color: brown;
+}
+.numb {
+	color: brown;
+}
+.ttt {
+	position: absolute;
+	font-size: 25px;
+	font-family: cursive;
+	color: black;
+    padding-left: 400px;
+}
+#section {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#aboutusmodaltitle {
+  font-size: 20px;
+  font-family: cursive;
+  color: brown;
+  padding-left: 170px;
+}
+#aboutusmodalbody {
+  background-color: black;
+  font-family: monospace;
+  font-size: 20px;
+}
+#aboutusmodalfooter {
+  background-color: lightblue;
+}
+#formtitle {
+  padding-left: 60px;
+  font-family: cursive;
+  color: brown;
+  text-align: center;
+}
+#form1{
+  background-color: gray;
+}
+.form{
+  font-family: monospace;
+  width: 500px;
+}
+#name {
+  width: 380px;
+}
+#email {
+  width: 380px;
+}
+#textarea {
+  width: 380px;
+}
+#modalbody{
+  font-family: monospace;
+  color: white;
+}
