@@ -8,6 +8,10 @@ body {
   font-family: cursive;
   font-size: 30px;
 }
+.img-fluid {
+	width: 5%;
+	height: 5%;
+}
 .navbar {
 	border-bottom:#008ed5 2px solid;
 	opacity: 0.8;
