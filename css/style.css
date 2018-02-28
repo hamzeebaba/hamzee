@@ -218,8 +218,8 @@ margin-left: -500px;
 }
 @media (min-width: 991px) and (max-width: 1085px) {
 	.img-fluid {
-           width: 20%;
-           height: 10%;
+           width: 10%;
+           height: 7%;
           }
          
 	.dan {
